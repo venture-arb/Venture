@@ -86,10 +86,11 @@ We are committed to **continuous innovation** and bringing more features to the 
 ---
 
 ## 🔗 Official Links  
-🌐 **Website**: [https://venture-arb.com/] <br>
-💬 **Telegram**: [Join Now]  <br>
-🐦 **Twitter (X)**: [https://x.com/VentureVNT]<br>
-📂 **Doc**: [https://venture-whitepaper.gitbook.io/venture-documentation]
+**Website**: [https://venture-arb.com/] <br>
+**Telegram**: [Join Now]  <br>
+**Twitter (X)**: [https://x.com/VentureVNT]<br>
+**Medium** : [https://medium.com/@VentureVNT]<br>
+**Doc**: [https://venture-whitepaper.gitbook.io/venture-documentation]
 
 ---
 
