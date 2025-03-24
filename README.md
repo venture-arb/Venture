@@ -1,7 +1,7 @@
 # 🚀 Venture - The Future of Decentralized Finance  
 
 ## Introduction  
-Venture is a **comprehensive cryptocurrency ecosystem** designed to empower traders, investors, and businesses with cutting-edge tools to **maximize profits and optimize financial strategies**. Built on **Ethereum**, Venture seamlessly integrates **trading, yield farming, arbitrage, borrowing, and decentralized transactions**, bridging the gap between **traditional finance and DeFi**.  
+Venture is a **comprehensive cryptocurrency ecosystem** designed to empower traders, investors, and businesses with cutting-edge tools to **maximize profits and optimize financial strategies**. Built on **Binance**, Venture seamlessly integrates **trading, yield farming, arbitrage, borrowing, and decentralized transactions**, bridging the gap between **traditional finance and DeFi**.  
 
 At the core of Venture lies **$VNT**, the native token that **fuels the ecosystem**, providing rewards, governance rights, and exclusive benefits to holders.  
 
