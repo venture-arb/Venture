@@ -11,7 +11,11 @@ At the core of Venture lies **$VNT**, the native token that **fuels the ecosyste
 
 ### 🔹 Venture Arbitrage Bot  
 - Automates arbitrage trading across multiple exchanges, finding profitable opportunities.  
-- **$VNT holders benefit** from lower trading fees and profit-sharing.  
+- **$VNT holders benefit** from lower trading fees and profit-sharing.
+
+### 🔹 Venture Staking  
+- Earn Passive Income – Higher APY for long-term stakers. 
+- Voting Power – Governance rights to influence platform upgrades and new integrations. 
 
 ### 🔹 Venture Trading Terminal  
 - A professional **trading platform** with advanced analytics and execution tools.  
